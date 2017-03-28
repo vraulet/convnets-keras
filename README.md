@@ -1,3 +1,9 @@
+
+**NOTE:** This repo is outdated and no longer updated.
+- Keras now provides an easy way to load pre-trained models
+- A notebook describing how to build fully convolutional networks and heatmaps is available <a href="https://github.com/m2dsupsdlclass/lectures-labs/blob/master/labs/04_conv_nets_2/Fully_Convolutional_Neural_Networks.ipynb">here</a>
+- A rendered version with visualisations is available <a href="https://github.com/m2dsupsdlclass/lectures-labs/blob/master/labs/04_conv_nets_2/Fully_Convolutional_Neural_Networks_rendered.ipynb">here</a>
+
 # convnets-keras
 
 This repo is regrouping some of of the most used CNN, pre-trained on the ImageNet Dataset, all of them implemented in Keras framework : 
